@@ -1,0 +1,4 @@
+[submodule "child"]
+	path = child
+	url = git@github-personal:shermaneric/child.git
+	branch = master
